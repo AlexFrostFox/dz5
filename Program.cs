@@ -53,3 +53,9 @@
 
 //Решение:
 
+float[] Array = new float[9];
+float num = 0;
+for (float i = 0; i < Array.Length; i++)
+{
+    
+}
